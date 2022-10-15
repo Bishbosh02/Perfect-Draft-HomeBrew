@@ -20,7 +20,7 @@ How to fill the keg with un pressurised beer
 3) Fill the keg with the beer 
 4) Condition the keg for two weeks so that it is at the correct C02 level
 
-How to fill the keg with pressurised beer (from a formator ?)
-1) Connect the liquid connector to the top of the keg and put the pipe to fermenter/ corny keg.
+How to fill the keg with pressurised beer (from a fermentor?)
+1) Connect the liquid connector to the top of the keg and put the pipe to fermenter/corny keg.
 3) connect a spunding valve to the air (in/out) pipe.
-3) as the beer in the fermenter/corny keg pressurised the beer should transfer to the perfect draft keg (adjust the spunding valve to help the transfer)
+3) As the beer in the fermenter/corny keg pressurised the beer should transfer to the perfect draft keg (adjust the spunding valve to help the transfer)
