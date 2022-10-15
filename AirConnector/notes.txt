@@ -1,0 +1,7 @@
+The AirConnectorPin is glued into the AirConnector this is used to push the perfect draft valve to allow air (in/out) of the keg.
+
+The 6mm clear tubing is pushed onto the end of the air connector and this is used to connect to the vacuum pump box.
+
+The bracket is used to hold the airconnector in place when in use.
+
+Note: Use lubricate on the O-ring to help with the airconnector.
