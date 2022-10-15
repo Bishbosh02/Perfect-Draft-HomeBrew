@@ -1,0 +1,6 @@
+Beerinlet 
+
+The beer inlet is used to fill the keg with beer or water, there are two types 
+
+BeerInlet Pipe 6mm - used for connection to corny keg 
+BeerInlet Pipe 8mm - used for beer bucket / water
